@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+amlc24/
+.env
+*.ipynb_checkpoints/
+dataset/
+outputs/

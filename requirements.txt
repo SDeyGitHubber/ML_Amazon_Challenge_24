@@ -1,0 +1,10 @@
+opencv-python
+pillow
+tesseract
+pytesseract
+pandas
+numpy
+scikit-learn
+torch
+tensorflow
+matplotlib
